@@ -1,0 +1,40 @@
+.intro {
+text-align: center;
+padding: 100px;
+}
+
+#heading p {
+  margin-top: 50px;
+}
+
+#heading h2 {
+  margin-top: 50px;
+}
+
+
+#heading h3 {
+  margin-top: 50px;
+}
+
+#heading h5 {
+  margin-top: 100px;
+  margin-bottom: 0;
+}
+
+/* .contents {
+  text-align: left;
+} */
+
+
+body{
+  font-family: Georgia, serif;
+  line-height: 1.6;
+  font-size: 18px;
+  background-color: #fff1e5;
+}
+
+hr {
+  border: 3px solid #28527a;
+  border-radius: 5px;
+  margin: 10px;
+}
